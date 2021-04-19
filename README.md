@@ -8,7 +8,7 @@ We use "trusted" training dataset & test dataset for this project.
 You should first run the "create_structured_test_set.py" and use those structured test data (it changes the way the images are organized in folders).  
 Then you create new directory for Training set named `/Data/Train_data/` and Test set named `/Data/Test_data/`.  
 Each directory contains 100 classes.  
-Those classes must be the same name for Train & Test set (e.g. Training and Test folder must contain the class 23). 
+Those classes must be the same for Train & Test set (e.g. Training and Test folder must contain the class 23). 
 
 # Training 
 The training process takes place using the test_train.py.  
