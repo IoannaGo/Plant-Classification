@@ -17,5 +17,5 @@ The models that we use is:
 *ResNet50V2  
 *MobileNet  
 *InceptionV3  
-*AlexNet
-  The default model is MobileNet.
+*AlexNet  
+The default model is MobileNet.
